@@ -1,2 +1,3 @@
 # beginner-projects
-Projects based on various courses I'm working on to improve my learning.
+## About this repository
+Projects based on various courses I'm working on to improve my learninga and also for fun. =)
